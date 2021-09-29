@@ -1,0 +1,55 @@
+<employees>
+
+
+    <employeeInfo serial="1">
+        <id> 1 </id>
+        <name> Ali fazal </name>
+        <address>
+
+            <flatNo></flatNo>
+            <house> 301 </house>
+            <road> 19 </road>
+            <area> Bashundhara </area>
+            <city> Dhaka </city>
+
+        </address>
+        <department> Sales </department>
+        <salary> 10000 </salary>
+    </employeeInfo>
+
+
+    <employeeInfo serial="2">
+        <id> 2 </id>
+        <name> Mohammed salam </name>
+        <address>
+
+            <flatNo> 759 </flatNo>
+            <house> 42 </house>
+            <road> 12/A</road>
+            <area> Uttara </area>
+            <city> Dhaka </city>
+
+        </address>
+        <department> Sales </department>
+        <salary> 22000 </salary>
+    </employeeInfo>
+
+
+    <employeeInfo serial="3">
+        <id> 3 </id>
+        <name> Vin diesal </name>
+        <address>
+
+            <flatNo> 11 </flatNo>
+            <house> 123 </house>
+            <road> 4/A </road>
+            <area> Mirpur </area>
+            <city> Dhaka </city>
+
+        </address>
+        <department> Marketing </department>
+        <salary> 20000 </salary>
+    </employeeInfo>
+
+
+</employees>

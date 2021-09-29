@@ -1,0 +1,43 @@
+<persons>
+
+
+    <personInfo id="1">
+        <serialNo> 11 </serialNo>
+        <name> Castro </name>
+        <admissionDate>
+
+            <day> 15 </day>
+            <month> 08 </month>
+            <year> 2012 </year>
+
+        </admissionDate>
+    </personInfo>
+
+
+    <personInfo id="2">
+        <serialNo> 44 </serialNo>
+        <name> Mr Bob </name>
+        <admissionDate>
+
+            <day> 10 </day>
+            <month> 04 </month>
+            <year> 1993 </year>
+
+        </admissionDate>
+    </personInfo>
+
+
+    <personInfo id="3">
+        <serialNo> 99 </serialNo>
+        <name> Alex Costa </name>
+        <admissionDate>
+
+            <day> 18 </day>
+            <month> 07 </month>
+            <year> 1999 </year>
+
+        </admissionDate>
+    </personInfo>
+
+
+</persons>

@@ -1,0 +1,27 @@
+<products>
+
+    <productInfo serial="1">
+        <id> 31 </id>
+        <name> Huawei </name>
+        <unitPrice> 24000 </unitPrice>
+        <stock> 80 </stock>
+        <Status> 0 </Status>
+    </productInfo>
+
+    <productInfo serial="2">
+        <id> 84 </id>
+        <name> Oppo </name>
+        <unitPrice> 15300 </unitPrice>
+        <stock> 70 </stock>
+        <Status> 1 </Status>
+    </productInfo>
+
+    <productInfo serial="3">
+        <id> 14 </id>
+        <name> Iphone </name>
+        <unitPrice> 50000 </unitPrice>
+        <stock> 150 </stock>
+        <Status> 1 </Status>
+    </productInfo>
+
+</products>
